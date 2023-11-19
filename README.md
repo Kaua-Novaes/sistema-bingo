@@ -5,7 +5,6 @@ Recursos:
 
 Interface gráfica atraente e fácil de usar.
 Geração aleatória de números de bingo.
-Controle de cartelas para os jogadores.
 Indicação visual dos números chamados.
 Funcionalidade para reiniciar o jogo.
 Instruções de Uso:
