@@ -1,0 +1,67 @@
+QWidget#janela{
+    background-color: rgb(50, 0, 50);
+}
+QLineEdit#sorteados{
+    background-color: white;
+    border-radius: 7px;  
+    font-size: 18px;
+    padding: 0;
+    font-weight: bold;
+    border: 1px solid rgb(255, 0, 187)
+}
+
+QLineEdit#numSorteado{
+    background-color: white;
+    border-radius:50px;  
+    font-size: 40px;
+    border: 8px solid rgb(255, 0, 187)
+}
+
+QPushButton#botaoSort{
+    background-color: rgb(255, 0, 187);
+    border-radius: 15px;
+    color: white;
+    font-family:"Blippo", fantasy;
+    font-size: 15px; 
+    font-weight: bold;
+}
+
+QLineEdit#pintar{
+    background-color: rgb(255, 0, 187);
+    border-radius: 7px;  
+    font-size: 18px;
+    padding: 0;
+    font-weight: bold;
+    border: 1px solid white;
+    color: white;
+}
+
+QPushButton#botaoStart{
+    background-color: white;
+    border-radius: 15px;
+    color: rgb(255, 0, 187);
+    font-family:"Blippo", fantasy;
+    font-size: 15px; 
+    font-weight: bold;
+}
+
+QPushButton#botaoStart:hover{
+    background-color: rgb(183, 183, 183);
+}
+
+QPushButton#botaoSort:hover{
+    background-color: rgb(255, 111, 217);
+
+}
+
+QLineEdit#sorteados:hover{
+    background-color: rgb(228, 228, 228);
+}
+
+QTextEdit#numSequencia{
+    background-color: white;
+    border-radius:10px;  
+    font-size: 18px;
+    border: 3px solid rgb(128, 2, 128)
+
+}
